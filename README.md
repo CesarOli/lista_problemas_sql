@@ -13,3 +13,6 @@ Objetivo
 - Manipular dados nas tabelas;
 - Resolver problemas disponíveis na lista que simule problemas do dia a dia;
 - Mostrar resultados dos problemas resolvidos;
+
+Referência:
+https://www.codecademy.com/resources/blog/sql-code-challenges-for-beginners/
